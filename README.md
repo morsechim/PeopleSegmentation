@@ -1,6 +1,6 @@
 # People Segmentation and Annotation
 
-This program performs real-time object detection and annotation on a video stream. It utilizes YOLOv5 model for object detection and a custom annotation module for adding labels and masks to the detected objects.
+This program performs real-time object detection, segmentation, and annotation on a video stream. It utilizes the YOLOv8 Seg model for object detection and a custom annotation module for adding labels and masks to the segmentation of the detected object.
 
 ## Requirements
 
