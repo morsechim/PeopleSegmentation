@@ -47,12 +47,12 @@ You can customize the following parameters in the script:
 
 - `conf_threshold`: Confidence threshold for object detection.
 - `selected_classes`: Classes to filter detections.
-- `model_path`: Path to the pre-trained YOLOv8 Segment model.
+- `model_path`: Path to the pre-trained YOLOv8-Seg model.
 - Output video settings like codec, frame rate, etc.
 
 ## Acknowledgments
 
-- This project utilizes the YOLOv5 implementation from the Ultralytics repository.
+- This project utilizes the YOLOv8-Seg implementation from the Ultralytics repository.
 - The annotation module is adapted from the `supervision` library.
 
 ## License
